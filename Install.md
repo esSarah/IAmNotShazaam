@@ -9,3 +9,15 @@
 	<li>pip install ffmpeg</li>
 	<li>pip install Shazamapi</li>
 </ul>
+<p>
+Sadly, on my windows device, <a href="https://www.ffmpeg.org/download.html">ffmpeg</a> needs to be installed as app</br>
+this means the three files:
+<ul>
+<li>ffmpeg.exe</li>
+<li>ffplay.exe</li>
+<li>ffprobe.exe</li>
+</ul>
+are in the folder where they are accessed (prototype for now)
+</p>
+
+
