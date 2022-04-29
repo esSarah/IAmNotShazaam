@@ -1,0 +1,151 @@
+setnumber,Title,id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+1,No Promises (feat. Demi Lovato) - Ashworth Remix,6TmtxRY1tGhH6rY8HVvHG7,0.673,0.646,10,-7.101,1,0.0552,0.434,0.0,0.187,0.521,121.119
+2,Only Want You - Sam Feldt Remix,2wOVXsIRIoniqipE9I5ZVx,0.578,0.786,9,-4.665,1,0.13,0.232,0.000106,0.122,0.347,105.945
+3,Love Myself - KREAM Remix,0Qydhjycb5IFm02W6zJ2Tn,0.775,0.772,7,-4.79,0,0.0962,0.00764,1.26e-05,0.0515,0.274,124.947
+4,My Head & My Heart - Jonas Blue Remix,7x74XLYJqptDCmY4y3FaVh,0.675,0.899,9,-4.787,0,0.0391,0.0025,8.33e-05,0.298,0.344,123.034
+5,I Know You (feat. Bastille) - Vigiland Remix,1byydVLDAt7An5Pk3SuL5j,0.674,0.471,9,-8.199,1,0.0719,0.0946,0.0,0.22,0.219,127.963
+6,South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix,19TOAlTFq0NDHvUPQR0tkr,0.845,0.766,2,-5.727,0,0.0658,0.212,0.0,0.111,0.782,114.054
+7,Into You - 3LAU Remix,1cfVkL84XmRON3Gl9jDXKI,0.615,0.781,6,-5.597,0,0.109,0.0171,0.0017,0.178,0.268,126.254
+8,Levitating (feat. DaBaby) - Don Diablo Remix,0QGl113Wm50br1F5V6kIt2,0.686,0.917,11,-3.06,0,0.151,0.104,1.44e-06,0.444,0.387,119.979
+9,Ruin My Life - Steve James Remix,0Fc9QSMX6fgEBgDjUax7t7,0.723,0.837,11,-6.487,1,0.0389,0.0103,0.000477,0.0834,0.643,123.952
+10,Takeaway (feat. Lennon Stella) - Andrew Rayel Remix,16QhpULFOW9fE2yvXsJV6A,0.468,0.83,8,-3.301,1,0.0727,0.000187,0.0,0.0875,0.162,126.835
+11,Chasing Highs - Felix Cartal Remix,6CSr11bPiFYJUzYo7vWiIw,0.67,0.774,2,-3.068,0,0.0404,0.0399,0.00556,0.126,0.25,121.086
+12,Mad Love - Blinkie Remix,5qiQbOa6AFEO3P111y9Jry,0.706,0.931,0,-3.053,0,0.0456,0.354,3.72e-06,0.146,0.465,123.012
+13,Prisoner (feat. Dua Lipa) - Jax Jones Remix,6B7jm2IJsh3DYXO7RgwVnx,0.844,0.619,6,-7.555,1,0.046,0.174,1.05e-06,0.0831,0.386,128.008
+14,Beautiful People (feat. Khalid) - NOTD Remix,6J7WMB5GII6pEOzy687jhO,0.702,0.794,3,-5.913,1,0.0562,0.00715,4.56e-05,0.11,0.37,103.972
+15,I'll Be There - Cahill Remix,7gEbuXht8gYcA5OdN9zUpy,0.595,0.887,7,-3.607,1,0.0387,0.00198,3.91e-05,0.0518,0.571,124.073
+16,Castles - Sam Feldt Remix,0AZJDOGsRHnR9GEMWqzOiP,0.63,0.901,4,-3.806,1,0.0476,0.0422,0.000615,0.35,0.587,120.022
+17,Sweet but Psycho - Morgan Page Dance Remix,1gwwks3lIsvJq5pDJ82fKK,0.645,0.795,1,-5.439,1,0.0343,0.0334,1.05e-05,0.089,0.424,127.959
+18,Don't Call Me Up - R3HAB Remix,0goj2jVaUvxQP2zsyt7Xol,0.752,0.812,6,-4.41,0,0.183,0.287,2.45e-05,0.0897,0.58,108.05
+19,Insomnia - King Topher Remix,52Y5nYBQgqawttJxxtUv1e,0.733,0.718,4,-7.149,0,0.0376,0.0107,0.0102,0.33,0.206,122.993
+20,Black Magic - Cahill Remix,5MeTUONtAo08JqtGPljSxv,0.713,0.898,4,-4.931,1,0.0744,0.027,0.0,0.397,0.477,125.974
+21,September Song - Indian Summer Mix,1d33rv3YwKEoc7rtTVWCqt,0.614,0.802,0,-3.872,0,0.0306,0.023,0.0,0.0589,0.666,96.026
+22,Your Song - Cheat Codes Remix,6IUxxEeE9fGdZa5HYDFYLn,0.728,0.755,1,-4.359,1,0.0307,0.0288,0.0,0.295,0.424,118.003
+23,I Wanna Know (feat. Bea Miller) - Syn Cole Remix,5qmklQfO5yyZ3Es4e0c0ax,0.71,0.764,6,-3.341,1,0.0436,0.117,0.0,0.0806,0.341,126.056
+24,Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix,5072hCBK3Z15qRnTEzd8fy,0.448,0.911,10,-7.121,1,0.0491,0.00107,0.555,0.37,0.0305,126.021
+25,Symphony (feat. Zara Larsson) - R3hab Remix,0TmjbzJHDDe6THTGmanJWO,0.632,0.826,0,-4.342,0,0.0486,0.027,4.77e-05,0.0949,0.679,141.925
+26,Kings & Queens - MOTi Remix,31LLpb0q1phhd3sRxIsdLz,0.638,0.75,1,-5.244,0,0.0754,0.0364,0.0,0.369,0.65,125.958
+27,SOS - Laidback Luke Tribute Remix / Radio Edit,3eLdNmnRWr9gIyBcqTSSti,0.572,0.915,5,-4.451,0,0.0625,0.0111,0.0,0.339,0.678,123.919
+28,Think Before I Talk - Cahill Remix,7almlnOxMbP9vsmbtLT0jg,0.726,0.934,0,-2.504,1,0.0596,0.00372,3.18e-05,0.142,0.65,124.988
+29,Mama - Syn Cole Remix,3NFvv5bC6HWtxUftIBm8Qd,0.787,0.796,11,-3.551,0,0.0429,0.0286,0.0,0.0909,0.634,126.032
+30,Hotter Than Hell - Matoma Remix,0Xe5szsIjDqnY2VwrSUuJ4,0.625,0.744,6,-7.0,1,0.0918,0.00479,0.0,0.18,0.49,109.863
+31,Problem - Dawin Remix,3MZZOUmI3UwgWdMQXAmaY0,0.741,0.817,8,-5.136,0,0.0616,0.0108,0.00147,0.0483,0.576,103.041
+32,Eyes Shut - Sam Feldt Remix,6k9iH2ZS4jMREnU33rjpS2,0.736,0.432,0,-8.041,1,0.0397,0.554,1.39e-05,0.0691,0.337,109.975
+33,Boyfriend - Tiësto Remix,3LfCdPrgeIikpAoHuMsN3b,0.768,0.861,7,-5.378,1,0.0577,0.072,2.14e-05,0.0703,0.652,125.97
+34,Never Really Over - R3HAB Remix,2OAylPUDDfwRGfe0lYqlCQ,0.449,0.856,5,-4.788,0,0.0623,0.187,0.0,0.176,0.152,112.648
+35,All My Love (feat. Conor Maynard) - Sagan Remix,6WDUvd96KA8LkrmXcvGr7X,0.663,0.941,11,-3.714,0,0.0538,0.0529,6.09e-05,0.0639,0.588,128.015
+36,Solo (feat. Demi Lovato) - Wideboys Remix,7BponDjgX1siFT4iU3Nc0S,0.659,0.946,11,-3.73,0,0.211,0.219,0.0,0.143,0.498,122.043
+37,Cool Girl - Nora En Pure Remix,1iJmr8jaTgrFThewtwrLoF,0.746,0.886,4,-5.717,0,0.0455,0.0506,0.00182,0.484,0.189,123.017
+38,Stay - Jonas Blue Remix,3qwQ3PEudWSXRaWbsJUUx5,0.763,0.846,5,-4.545,0,0.0468,0.0096,0.00803,0.0403,0.564,125.009
+39,Delicate - Seeb Remix,2Sy2oGjP5RYB4cLVoDU0Gz,0.68,0.821,0,-3.77,1,0.041,0.0956,0.00315,0.0826,0.571,105.986
+40,New Rules - KREAM Remix,4NkgQJFG0aDHXyylIGnmJ4,0.548,0.752,9,-5.456,0,0.111,0.00638,0.000345,0.0966,0.429,122.008
+41,Scared To Be Lonely - Brooks Remix,389MC596K4IN35zaHAyuYz,0.604,0.796,1,-2.416,0,0.0597,0.0126,0.0,0.106,0.225,127.991
+42,Lullaby - Calvo Remix,3mqvUmsGVshZSf5INiebzO,0.629,0.884,5,-4.984,0,0.0431,0.00232,3.77e-05,0.359,0.455,125.961
+43,Harleys In Hawaii - KANDY Remix,5EECgBC0NjIaUd8ke9YYTo,0.661,0.796,10,-5.513,0,0.154,0.143,0.0,0.276,0.472,128.072
+44,Symphony (feat. Zara Larsson) - Cash Cash Remix,4CqO3ZpI3FGByskguC5Kbo,0.662,0.938,0,-1.948,0,0.048,0.0541,0.0047,0.153,0.237,127.022
+46,I Will Never Let You Down - R3hab Remix,4z28iMiVbMlWYZhngR88vW,0.712,0.746,4,-4.022,1,0.0927,0.00324,5.6e-06,0.0655,0.394,127.994
+47,If It Ain't Love - Westfunk Remix,5UV8R7PQD4GHSCh6ScCBwn,0.62,0.963,10,-3.016,0,0.099,0.0281,2.89e-05,0.361,0.52,125.028
+48,Bang Bang - 3LAU Remix,4kXDTeaXTJGRlyGQ15fhvA,0.659,0.875,7,-3.337,0,0.0441,0.0165,2.1e-06,0.375,0.386,127.979
+49,In the Name of Love - DallasK Remix,55y30bh2ZUtzOXjWLxn7XT,0.522,0.816,4,-3.156,0,0.0643,0.0126,4.19e-06,0.348,0.102,134.103
+50,Thursday - Nicky Romero Remix,7r4nPsLToVIPdsiEeZKF6Y,0.739,0.622,11,-5.382,0,0.0394,0.532,0.0,0.0508,0.615,119.992
+51,Ain't My Fault - R3hab Remix,3YPlsrk0Voe8AOa1jyN891,0.67,0.847,9,-3.723,1,0.043,0.0156,0.0,0.22,0.613,150.109
+52,All Night - Alex Adair Remix,4ybJaOpgdqqeRgFHMh0Nm4,0.396,0.827,8,-4.735,1,0.256,0.0123,0.0,0.389,0.487,129.109
+53,Still Falling For You - Jonas Blue Remix,1KqquoEp6nWY1s46lwFoTF,0.536,0.745,1,-7.695,1,0.0537,0.327,0.0,0.312,0.5,122.481
+54,2002 - KREAM Remix,7JCmaxxkWIcq8BRiSKHH9V,0.756,0.887,6,-4.131,0,0.13,0.00104,0.0126,0.118,0.246,122.958
+55,Youngblood - R3HAB Remix,2vIzH4NfFGoJHA5rn1dFWT,0.425,0.771,7,-4.293,0,0.0629,0.0312,0.0,0.165,0.213,142.034
+56,There For You - Madison Mars Remix,5K3NDUPkLe46b5DRMt2RNJ,0.6,0.947,6,-1.84,0,0.163,0.0395,0.0,0.1,0.347,126.045
+57,What About Us - Cash Cash Remix,5Xt5iEbljmwJW51LMTQ6Nx,0.597,0.797,8,-2.565,1,0.0469,0.0509,4.77e-06,0.104,0.222,122.898
+58,Something Just Like This - Alesso Remix,50RJdoxw8iajGNtHQe6QeS,0.663,0.728,2,-5.99,1,0.0491,0.24,0.000417,0.122,0.563,120.082
+59,Came Here for Love - Freedo Remix,4tiTh1MONBC5WqhkB9ZyS4,0.644,0.665,6,-4.32,1,0.0335,0.0942,0.0,0.0893,0.706,129.963
+60,2U - Seeb Remix,0wWDqoqrjFJjvpbYR5oMKn,0.639,0.735,8,-4.948,0,0.0937,0.141,0.0,0.17,0.578,139.984
+61,Happy Now - R3HAB Remix,7AkLPOwjju8taQCJCaIUts,0.623,0.84,9,-5.446,1,0.123,0.0173,0.0,0.363,0.539,123.068
+62,False Alarm - Hook N Sling Remix,7FWSYDL3TOu0Q4fzBdx3F5,0.837,0.896,8,-3.079,1,0.0434,0.0106,0.0179,0.169,0.666,124.007
+63,There For You - Dzeko Remix,7qDV8EUMjj5sJdholWKUqk,0.61,0.907,2,-5.224,1,0.154,0.0207,3.82e-05,0.165,0.515,126.235
+64,On My Mind - Jax Jones Remix,4V8zi6WqKPmN8V8nyb3WFk,0.715,0.765,5,-5.874,1,0.0378,0.0231,0.000395,0.125,0.7,127.985
+65,I Don't Care (with Justin Bieber) - Jonas Blue Remix,1VYj8u5I4L5Xl21zQiQMx7,0.708,0.872,6,-5.775,1,0.0502,0.0736,0.0,0.337,0.25,124.026
+66,FRIENDS - R3hab Remix,18YRKiIZO4qDEc5Ik0Cry6,0.545,0.814,9,-4.398,0,0.0409,0.028,0.0,0.0969,0.696,104.93
+67,Finest Hour (feat. Abir) - Madison Mars Remix,4NlO8s4WHOt7iHUcB1Ip8L,0.68,0.76,8,-2.224,1,0.099,0.13,0.0,0.377,0.677,122.028
+68,Sick Boy - Trobi Remix,5wY5vXuojS9V4e9Nh9yrwS,0.726,0.748,4,-4.819,0,0.111,0.0136,0.0,0.217,0.349,107.986
+69,Ocean (feat. Khalid) - David Guetta Remix,2Ceq5Ty6rJqazoZIWyS0Vc,0.609,0.824,0,-8.251,0,0.0795,0.0913,2.88e-05,0.134,0.36,127.072
+70,Wild Things - Young Bombs Remix,5RTcZV8NvRsmjPFwTvBMMx,0.675,0.771,1,-5.197,0,0.169,0.00477,0.0,0.202,0.432,106.043
+71,Rise - Retrovision Remix,749MvEtNXKsgfq5trXJUbk,0.721,0.745,1,-4.31,1,0.127,0.15,0.0,0.334,0.541,125.088
+72,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - AJR Remix",4DMvvYvDNiEv2QUciZCyp7,0.538,0.776,0,-4.814,1,0.201,0.261,0.0,0.201,0.776,94.969
+73,Sixteen - Don Diablo Remix,3jwQwGVERUXo7eaAgL1xAo,0.493,0.773,5,-3.791,0,0.157,0.429,7.07e-06,0.0807,0.301,123.149
+74,Rewrite The Stars - Wideboy's Hands In The Air Remix,3cGTJ36recw62AXf34v3kJ,0.597,0.937,10,-3.36,1,0.0406,0.0111,2.96e-06,0.144,0.709,124.995
+75,Roses (feat. ROZES) - Zaxx Remix,5MgBUUjbkQ27Kd9CbeZFLo,0.677,0.881,1,-3.534,0,0.054,0.00445,0.0146,0.359,0.566,128.121
+76,Last Hurrah - David Guetta Remix,66wF9HWqR8RpQ47tiVQpgx,0.683,0.712,11,-6.954,0,0.0528,0.105,1.82e-06,0.21,0.59,91.033
+77,Alive - Cahill Club Mix,4lVHqLgj5UEVmP1dXwPyHu,0.602,0.823,6,-3.501,0,0.0366,0.00296,0.259,0.353,0.473,122.992
+78,"I Don't Like It, I Love It (feat. Robin Thicke & Verdine White) - Kasum Remix",3UA4D0hx3jJEbrtfi2ZvmD,0.595,0.898,2,-4.878,0,0.0713,0.178,0.0,0.312,0.451,126.035
+79,Mama (feat. Ellie Goulding) - Tiësto’s Big Room Remix,6J9v3Jr3G2WWb2VQPXU2gX,0.684,0.95,1,-2.588,0,0.0814,0.0207,1.24e-06,0.105,0.436,125.967
+80,IDGAF - Hazers Remix,0FlnsBDwPglenLJoQjPd4K,0.814,0.705,7,-4.734,1,0.0904,0.0958,0.000133,0.0687,0.6,110.004
+81,Call on Me - Ryan Riback Remix,2L6orAlH8tBhiFTumIfMyF,0.67,0.838,0,-4.031,1,0.0362,0.0604,0.000611,0.159,0.717,104.998
+82,Capsize - Dzeko & Torres,1feebjQLo4D91KPWCYrU3z,0.8,0.86,0,-3.796,0,0.0446,0.306,0.000219,0.24,0.853,108.009
+83,Rain On Me - Purple Disco Machine Remix - Edit,0dj5O3Nc6ONKWNd8mErvND,0.764,0.772,1,-7.061,0,0.0739,0.00643,0.00661,0.125,0.902,123.016
+84,Closer - R3hab Remix,0Ye1olMyvB2rLjZ4vlYVWI,0.775,0.559,8,-5.89,1,0.0417,0.081,0.0,0.219,0.408,100.042
+85,Let Me Love You - Tiësto's AFTR:HRS Mix,7srwQKnqYsIY26Aatbazaq,0.707,0.83,0,-4.587,0,0.0427,0.0107,2.06e-05,0.495,0.386,120.013
+86,Just Got Paid (feat. French Montana) - M-22 Remix,6GNs8fQCQlMBbB1JGvaIAG,0.696,0.96,6,-3.519,0,0.0851,0.00436,0.00111,0.158,0.431,123.992
+87,Close To Me (with Diplo) (feat. Swae Lee) - Felix Cartal Remix,5mYNWSc1AE7pWS3Ax4e8Dl,0.733,0.839,1,-2.839,0,0.0335,0.0145,0.000187,0.162,0.471,126.009
+88,Habits (Stay High) - The Chainsmokers Radio Edit,2D20D6gxMn8iJV4ij30DIV,0.678,0.825,10,-5.923,1,0.0367,0.00422,0.00235,0.131,0.0388,128.018
+89,I Miss You (feat. Julia Michaels) - Cahill Remix,1CSk9lJFJt4OdcvOH5iK61,0.724,0.9,0,-2.909,0,0.0733,0.0892,0.0,0.0806,0.523,125.057
+90,Lie (Le Youth Remix),0utSnGPZthEAuKH2kUfTcj,0.72,0.736,5,-6.568,1,0.146,0.138,0.00383,0.201,0.591,119.005
+91,Complicated (feat. Kiiara) - Robin Schulz Remix,30jTflhN1ExdH9RCBTVlcl,0.82,0.723,0,-5.015,0,0.068,0.0399,0.185,0.109,0.536,119.988
+92,Paris - Jewelz & Sparks Remix,5srtUQuIEmo9pqiIT8h2BG,0.435,0.912,2,-4.352,1,0.344,0.0837,0.0,0.181,0.214,124.504
+93,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Tiësto Remix,55nMnifaQWKe3f9cbwOXwx,0.69,0.78,5,-4.446,0,0.0594,0.00733,0.00183,0.0729,0.238,126.07
+94,I Really Like You - Blasterjaxx Remix,7CZvFZDozMBgbfKSePgpSk,0.605,0.764,2,-6.709,0,0.0401,0.0406,0.000488,0.149,0.531,128.007
+95,Side To Side - Slushii Remix,27WOAkJrAYagnYj7Y2tsFw,0.548,0.877,6,-2.927,0,0.051,0.0726,0.000116,0.101,0.365,150.081
+96,Move Your Body - Alan Walker Remix,6LUOMjoORvAkdhBYvESO46,0.636,0.789,10,-4.905,0,0.0892,0.0834,0.000896,0.391,0.4,128.028
+97,Kiss It Better - R3hab Remix,2f7HKQh8zptKYnO6aIhErl,0.73,0.743,6,-3.948,1,0.0417,0.0583,0.0,0.103,0.475,102.023
+98,Attention - Bingo Players Remix,6zcrTrD7JY8gTQKeMyHafc,0.721,0.796,6,-4.516,1,0.0764,0.00434,0.00113,0.107,0.223,120.056
+99,No Lie - Sam Feldt Remix,1nRA1PmMNZMv4BMV4Je8uK,0.809,0.846,0,-3.727,1,0.14,0.0924,0.0,0.164,0.574,115.028
+100,Runaway (U & I) - Quintino Remix,4FxaRW9mYHzOmApbAPZXoH,0.597,0.858,10,-5.59,0,0.0742,0.000579,0.0215,0.0274,0.383,128.009
+100,Runaway (U & I) - Quintino Remix,4FxaRW9mYHzOmApbAPZXoH,0.597,0.858,10,-5.59,0,0.0742,0.000579,0.0215,0.0274,0.383,128.009
+101,Call You Mine (feat. Bebe Rexha) - Asketa & Natan Chaim Remix,5EdYlCWou17k0N1PADLKfO,0.577,0.844,7,-3.364,1,0.0406,0.004,6.59e-06,0.499,0.283,115.068
+102,Malibu - Tiësto Remix,1NvSQe0i4ApmQCnBI8Jwzq,0.582,0.921,8,-2.496,1,0.0509,0.00216,0.000214,0.251,0.49,128.062
+103,Ciao Adios - Burak Yeter Remix,0xedZw4tBgVZdsB8w7r5aG,0.773,0.839,4,-5.68,0,0.14,0.0636,2.31e-06,0.328,0.658,123.001
+104,Don't Leave - Gryffin Remix,2ygxpFIvfVzti5zcpkSmue,0.586,0.756,8,-4.408,1,0.038,0.0037,0.000395,0.134,0.277,122.011
+105,On My Way - Da Tweekaz Remix,4Sp0jLZN8MgPnoGDufJS7N,0.478,0.848,1,-3.85,0,0.0431,0.0934,0.0,0.0925,0.48,149.936
+106,Jackie Chan - Sebastian Perez Remix,5pT2YfSaNwYsBPbIuBb0PE,0.606,0.913,3,-5.88,0,0.0745,0.00159,0.0,0.0814,0.75,125.065
+107,Bad At Love - Dillon Francis Remix,2iqIPpMrW9DCcs6XmxNFsY,0.736,0.949,9,-3.246,0,0.0527,0.189,0.0169,0.067,0.687,109.991
+108,Cold Water - Lost Frequencies Remix,4HMfSzk0UsiRhulF0eb1M9,0.713,0.542,2,-9.074,1,0.0357,0.193,0.000464,0.0877,0.447,115.031
+109,First Time - Gryffin Remix,6LIe9o2p1xfj72rx4NDY8k,0.494,0.81,3,-4.37,1,0.0533,0.0564,0.0,0.104,0.426,104.913
+110,Family - Frank Walker Remix,6YnkswUQX2GXOhywMsBDqp,0.663,0.846,8,-4.015,0,0.0801,0.192,0.0,0.173,0.59,123.993
+111,Club Can't Handle Me (feat. David Guetta),6ebkx7Q5tTxrCxKq4GYj0Y,0.616,0.869,0,-3.911,1,0.0327,0.0283,0.0,0.064,0.473,127.966
+112,Silence - Tiësto's Big Room Remix,3AUW7mAGx1BICBWqsuFgh4,0.522,0.941,1,-3.357,0,0.25,0.00621,3.63e-06,0.956,0.0994,130.088
+113,Anywhere - R3hab Remix,5geswBOGNkri9JPpIlnff5,0.67,0.864,11,-2.864,0,0.0321,0.0387,0.0,0.101,0.332,107.053
+114,Be the One - Netsky Remix,0HmS9wjfe3IA3fQz5W9Ppp,0.475,0.8,7,-4.392,0,0.0377,0.00196,0.0107,0.0852,0.183,174.984
+115,Chained To The Rhythm - Oliver Heldens Remix,1j5jfLirlWsytWPm7rmfjk,0.719,0.862,4,-4.533,0,0.0551,0.00264,0.000143,0.105,0.322,120.014
+116,Let Me Live - Banx & Ranx Remix,4btjcdEBFKNLK1fE4qzdoc,0.525,0.855,5,-3.209,0,0.308,0.0192,0.0,0.0976,0.809,87.567
+117,Faded - Tiesto's Northern Lights Remix,7MDobIiZKLbDDibHDA1fl8,0.419,0.752,6,-5.605,1,0.0805,0.0238,0.0032,0.129,0.129,125.846
+118,Waste It On Me - Cheat Codes Remix,0ld1ZvjtGHQFGjzelGuD2G,0.698,0.855,7,-4.595,1,0.13,0.0169,0.0,0.371,0.576,108.949
+119,Stargazing - Kaskade Remix,1laLEcn6nApj9iDC3934cU,0.568,0.593,2,-6.054,0,0.0325,0.115,0.0,0.48,0.453,101.997
+120,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Noodles Remix",01d33JH4fYWZvvThLozkGM,0.659,0.958,11,-4.032,0,0.102,0.000618,0.597,0.127,0.169,128.051
+121,I Believe I'm Fine - Adam Trigger Remix,3Vt0lnTghKY7MznSj5dVQp,0.745,0.699,1,-5.201,1,0.093,0.065,0.0,0.0615,0.481,115.063
+122,I Got U - High Contrast Remix,0Skumbz61iczMXRTTbaEJv,0.489,0.927,0,-4.309,1,0.0455,0.00364,0.647,0.0555,0.249,172.968
+123,Diamonds - The Bimbo Jones Vocal Edit,5VlyxtjCKSk2ETp1D3W0GX,0.608,0.913,11,-5.034,0,0.061,0.00902,0.0,0.162,0.67,124.899
+124,I Like Me Better - TRU Concept Remix,4fez9Q1CdSSdLrsVBuxAGu,0.734,0.698,6,-6.299,0,0.0274,0.0787,0.00994,0.0675,0.634,120.028
+125,Who Do You Love - R3HAB Remix,5QkVPG2Hf3MmAarireF6lh,0.529,0.698,8,-6.87,1,0.0456,0.2,0.0,0.185,0.357,142.012
+126,Hurts So Good,46u5B2WN4wryYLZuMAOmI4,0.672,0.625,7,-5.068,0,0.0468,0.0774,0.0,0.0934,0.423,120.038
+127,How Long - EDX's Dubai Skyline Remix,2cmWjJEB9PydEc1eIHbOHX,0.786,0.775,1,-5.316,0,0.0711,0.156,0.000103,0.0962,0.659,122.002
+128,Lush Life - Alex Adair Remix,5qmj6TGCq1HbqQJHIQK2hm,0.682,0.711,8,-3.682,1,0.039,0.000215,6.31e-05,0.493,0.243,107.517
+129,Flames - Pink Panda Remix,7sdG8n2Q9s8tCM8Wc2Vg1a,0.802,0.845,5,-5.509,0,0.0596,0.0343,0.0186,0.335,0.828,123.995
+130,Final Song - Diplo & Jauz Remix,0gahmokctHhYjyR3ZUGr7L,0.687,0.843,9,-2.974,1,0.0312,0.208,0.000917,0.0751,0.344,126.012
+131,Remind Me to Forget - Syn Cole Remix,5zb4vSFqjju8fXuPPHenHV,0.766,0.79,0,-3.244,1,0.0371,0.218,0.0,0.141,0.382,120.04
+132,This Feeling (feat. Kelsea Ballerini) - Afrojack & Disto Remix,1zZ8DfrLf4fQgARxIKOs20,0.607,0.942,10,-3.876,0,0.0857,0.000428,4.53e-05,0.111,0.164,150.074
+133,So Far Away (feat. Jamie Scott & Romy Dya) - CLiQ Remix,7BLZP3Q291G2iVKKgVRDyj,0.768,0.847,6,-5.877,0,0.0493,0.0573,0.00161,0.0667,0.707,123.001
+134,Praying - Frank Walker Remix,00L5zl0hO6lO069lzRWNkW,0.534,0.84,7,-4.535,0,0.463,0.019,8.97e-06,0.197,0.278,159.97
+135,Cheap Thrills (feat. Sean Paul) - Le Youth Remix,43nCsZO5kXQQViaxi6Fw19,0.753,0.862,6,-4.576,0,0.0927,0.00162,0.191,0.329,0.534,119.992
+136,Miss You - Major Lazer & Alvaro Remix,03FUQjwgCIfnprBZqVFvgh,0.759,0.783,1,-4.942,1,0.153,0.00197,0.0303,0.105,0.771,140.008
+137,This Is What You Came For (feat. Rihanna) - R3hab vs Henry Fong Remix,5SkdlJ2J6jc5M0tYlcG4vf,0.706,0.853,9,-4.796,0,0.0608,0.00216,0.00351,0.0857,0.205,128.017
+138,Heaven - David Guetta & MORTEN Remix,4QAUGy6k7c3IOAhgWz52r7,0.572,0.934,6,-5.053,0,0.0446,0.00292,0.0198,0.105,0.204,125.948
+139,365 - Zedd Remix,0ywzvARVqoxQOJpaswRe9E,0.784,0.595,2,-6.816,1,0.0413,0.00476,0.00727,0.059,0.183,124.019
+140,Red Lights - twoloud Remix,4CLgcmdfbPvDn63WiNPRga,0.564,0.746,7,-5.668,0,0.0763,0.00441,0.00118,0.0725,0.405,128.054
+141,Talk Dirty (feat. 2 Chainz) - TJR Remix,22r0HoAyCPma3BhIA8NDj4,0.779,0.948,1,-5.67,0,0.115,0.00426,0.00184,0.0797,0.693,127.988
+142,Now Or Never - R3hab Remix,34mowgpYk8cnLLiIvEzWBm,0.616,0.715,9,-4.711,1,0.0494,0.00501,2.11e-06,0.178,0.291,104.961
+143,Promises (with Sam Smith) - David Guetta Remix,3Lv3frZVXU7Q0JEFvLIzWW,0.588,0.697,3,-4.744,0,0.0372,0.186,0.000219,0.103,0.225,125.157
+144,RITMO (Bad Boys For Life) - Steve Aoki Remix,6cg7xTJ0KnJS59h5RHWZ6K,0.84,0.719,1,-3.333,1,0.0887,0.0728,0.0188,0.112,0.494,111.993
+145,Obsessed - Tiësto Remix,4918TwZfPrxk8vKhuaqIiq,0.62,0.944,11,-3.18,0,0.0451,0.000743,0.00263,0.0481,0.375,127.994
+146,I Would Like - Gorgon City Remix,6shSHDBeA8Hj5qnyIq7jdQ,0.719,0.557,2,-6.187,0,0.0355,0.00806,0.00877,0.0965,0.488,121.997
+147,Sexual - Oliver Nelson Remix / Radio Edit,39zrVbRvAjw1FbKaK64NTZ,0.74,0.854,2,-5.341,1,0.056,0.0291,0.000174,0.106,0.935,111.969
+148,I Will Never Let You Down - Digital Dog Radio Edit,08ljjg1KZEQZjjYbscNaTA,0.673,0.757,4,-6.197,1,0.211,0.173,5.25e-06,0.382,0.731,128.069
+149,Mad Love - Cheat Codes Remix,2WXN0MHp68JXuBG3hpXhos,0.524,0.709,4,-4.034,0,0.254,0.0195,0.0,0.0776,0.315,97.63
+150,Monster - Robin Schulz Remix,4tknhO5RmXIxnpoipMKBmG,0.475,0.815,8,-6.068,0,0.124,0.133,0.0,0.11,0.48,126.164

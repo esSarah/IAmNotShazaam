@@ -1,0 +1,65 @@
+setnumber,Title,id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+1,"Suite bergamasque, L. 75: III. Clair de lune",1cmigB9I6IRpFqjIbzvSQB,0.335,0.00501,1,-33.366,1,0.0451,0.993,0.919,0.0618,0.0383,132.085
+2,"The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",0jOnZhF75V68VsBObWx2XO,0.169,0.0161,9,-31.034,0,0.0442,0.986,0.86,0.0805,0.0573,128.143
+3,Satie / Orch. Ducros: Gymnopédie No. 1,3JdD9wqvohYMjK6BmEHtTP,0.0921,0.0183,7,-31.858,1,0.0513,0.942,0.94,0.195,0.039,166.979
+4,Fracture,2m2GJpBjQNNphaCgBeoj7R,0.324,0.0186,2,-28.248,1,0.0476,0.99,0.934,0.105,0.126,85.297
+5,"Kinderszenen, Op. 15: Träumerei (Arr. Lewin for Guitar)",2Imxyb3LiuXsDFo7Gq5YDs,0.406,0.00921,2,-31.822,1,0.087,0.984,0.906,0.0953,0.303,80.507
+6,3 Spirituals for Orchestra: No. 2. Kum Bab Yah,6y1FgcqMY76hCk9qLxUuy4,0.141,0.00268,2,-37.571,0,0.0427,0.945,0.601,0.0756,0.0386,140.372
+7,Filma Solo,6MPpYctLr7JXWIAcD1feq8,0.219,0.0373,10,-33.058,1,0.0467,0.986,0.862,0.14,0.0989,161.139
+8,The Arts and the Hours,1G3QPQkoXvpChjNUhd6Tfs,0.415,0.026,1,-36.7,1,0.0496,0.995,0.938,0.107,0.268,136.191
+9,Notturno for Strings and Harp,7nGA1sRfLDWXYb3VPstnZf,0.0979,0.0801,8,-19.643,1,0.0458,0.941,0.431,0.115,0.0608,75.314
+10,Natural Light,2zM7Ato6xDOi8ten4qn7Cm,0.218,0.00352,1,-39.627,1,0.0515,0.992,0.951,0.139,0.192,68.61
+11,"Après un rêve, Op.7, No.1 (Arr. Cello & Piano)",518hKWxnCK1L1fsYRl0OB5,0.186,0.0639,5,-23.374,0,0.0456,0.989,0.917,0.0953,0.0463,102.639
+12,Bruyères - Home Session,2eSVQH8lwcrUBs7dpEj7p7,0.3,0.0405,8,-31.023,1,0.0449,0.992,0.948,0.138,0.233,63.821
+13,Henry V: Henry V: Touch her soft lips and part,5WEmDvDiRpE7p3y8SMMAPJ,0.146,0.019,0,-31.365,1,0.0476,0.92,0.878,0.0864,0.0492,81.526
+14,Losar,0bCSGdS5SRvzoz4IBTD55W,0.305,0.0384,5,-28.605,0,0.0301,0.961,0.902,0.0886,0.0856,81.917
+15,"By the Still Waters, Op. 114",3qLZnIVAiGexuNuG8Aptrq,0.219,0.00913,1,-42.727,1,0.0352,0.993,0.882,0.0807,0.0702,75.77
+16,"Rêverie, L. 68: Rêverie",43bSKCMWHIuBsUVmQcDX1J,0.296,0.00896,7,-31.948,0,0.0394,0.994,0.91,0.0815,0.0673,69.44
+17,"Dolly, Op. 56: 1. Berceuse",3NbAsIxDL0fVgNuCLD152P,0.37,0.0076,4,-33.663,1,0.0384,0.995,0.91,0.0864,0.278,62.668
+18,"2 Aquarelles: Lento, ma non troppo",5TtmI9sfXw4VXco0PE21mV,0.176,0.0534,10,-27.626,1,0.0406,0.97,0.915,0.29,0.0332,71.673
+19,Frühlingsglaube (Arr. Franz Liszt),2EAgTVB2EdsMdqaqOk062L,0.227,0.00482,8,-36.351,1,0.036,0.993,0.912,0.157,0.0731,70.684
+20,II. floating leaf,1HE6aHCUtC6Mx0kiOsRUIS,0.248,0.00832,5,-38.205,0,0.0485,0.995,0.923,0.0669,0.239,175.256
+21,"Carnaval, Op. 9: No. 5. Eusebius (Adagio - Più lento molto teneramente)",73kFkK74uTO8fy8yBfMrTk,0.391,0.00316,10,-36.233,1,0.0382,0.995,0.925,0.068,0.143,69.792
+22,En nacelle,35otBCRXC8HdmRqndFStL0,0.429,0.0234,6,-29.753,1,0.0489,0.995,0.957,0.0962,0.0751,116.163
+23,"Scriabin: 24 Preludes, Op. 11: No. 21 in B Flat Major",7lFRAFQ2f2AmWOefaiV4wb,0.221,0.00193,3,-43.209,1,0.0409,0.992,0.956,0.0805,0.347,69.843
+24,"Sechs Klavierstücke, Op. 118: II. Intermezzo in A Major",1Oo7XEqkrwifJn17aA0ocF,0.299,0.00626,9,-30.923,1,0.0478,0.994,0.901,0.0823,0.0634,69.043
+25,Avril 14th (Aphex Twin) - Vanessa Wagner Version,5KIOfWtUEKrxDNi4OnIpg2,0.395,0.0826,5,-18.982,0,0.0432,0.995,0.93,0.126,0.119,93.288
+26,"Cello Sonata in G Minor, Op. 65: III. Largo",3zrcDZ9hPNkZuq20pxPb9o,0.124,0.0103,10,-31.768,1,0.04,0.983,0.85,0.0988,0.08,84.374
+27,"Goldberg Variations, BWV 988: Aria",5bu9A6uphPWg39RC3ZKeku,0.454,0.0139,4,-29.966,0,0.0514,0.995,0.943,0.0736,0.244,130.253
+28,"4 Sketches, Op. 15: No. 3. Dreaming (arr. for cello and piano)",3QI3LjBqsB4tuaDgR2jOyU,0.068,0.0103,5,-28.459,1,0.0391,0.991,0.92,0.109,0.0347,71.015
+29,"3 Visions: No. 2, Summerland",1XJMRdFSgkrmw2cXLJOD0b,0.46,0.00618,6,-28.121,1,0.0481,0.994,0.89,0.0896,0.086,67.12
+30,"Schumann: 12 Gedichte aus Liebesfrühling, Op. 37: No. 11: Warum willst du andre fragen",1NechTDnTtSaciAT6gmvJQ,0.238,0.00484,8,-31.76,1,0.0393,0.995,0.95,0.121,0.0394,70.821
+31,An Idea,1PINN6x0Riouab3wPSglpp,0.294,0.00785,4,-29.64,0,0.0667,0.994,0.956,0.0929,0.173,70.958
+32,Stille Musik: 3. Augenblicke der Serenade,308fmwi0Y8ULBSzthdhooI,0.16,0.00726,0,-39.362,1,0.0436,0.971,0.952,0.139,0.0336,86.12
+33,My fellow creatures,1YcABWwgkfrOSw8VMgDWZU,0.321,0.00611,4,-38.341,0,0.0362,0.995,0.908,0.09,0.0693,104.311
+34,"Poulenc: Cello Sonata, FP 143: II. Cavatine",6tmzIxHREnZzKSDMm6CNNS,0.13,0.00924,6,-27.853,1,0.0448,0.988,0.909,0.0849,0.0369,77.307
+35,A Little Book of Hours: VI. Singing Sun,06vaPTVwFkFxCzmJDXlfx5,0.346,0.00398,10,-44.526,1,0.0537,0.992,0.878,0.0643,0.318,78.891
+36,Still,6B0ZlLf0p2s1Lwt3ivAXKy,0.398,0.00209,0,-39.959,1,0.0444,0.996,0.955,0.0813,0.0971,71.461
+37,"Montero: Adagio (After Bach's Violin Concerto No. 2, BWV 1042)",1v3gGmcneK1QzYyBFiBXG0,0.36,0.00301,6,-35.441,0,0.0444,0.994,0.897,0.0557,0.18,72.892
+38,Wasserklavier,3LRYwBJECFeQGi16cPxEZY,0.32,0.00157,10,-43.77,0,0.0715,0.985,0.0465,0.05,0.109,78.685
+39,Memories of a Promenade II,4bFdyisLdkeS7tmbAWpl13,0.215,0.0282,0,-28.351,0,0.0353,0.991,0.877,0.107,0.167,74.408
+40,Five Pieces For Violin And Piano: I. Elegia (Andante Larghetto),1d1FNmfO3dFlH8873yNFX3,0.0694,0.00525,3,-35.45,1,0.0482,0.972,0.00751,0.0739,0.036,73.566
+41,"The Hours: An Unwelcome Friend (From ""The Hours"")",2GnYCy70I8cR4oEA2wsSDx,0.253,0.00429,7,-36.172,0,0.0523,0.99,0.912,0.103,0.0368,74.497
+42,Winter,6k5iJy3uIEhaqZu9MCGCiq,0.314,0.00545,0,-33.332,1,0.0597,0.994,0.945,0.0894,0.444,138.554
+43,"12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)",06emSBtL6jcUXcjVlayUHl,0.168,0.00571,8,-36.245,1,0.0404,0.995,0.92,0.068,0.0705,78.043
+44,"De Visée / Transcr. Garcia: Pièces de théorbe et de luth, Suite en la mineur: IV. Sarabande",5SFdpYdc4uDqkQqW7UzSqB,0.389,0.0187,9,-30.859,0,0.0444,0.995,0.903,0.0864,0.294,135.595
+45,Walk With Us - For Black Lives Matter,6XmozAAnvBf2VtLL53AkX0,0.299,0.0264,9,-26.535,0,0.0469,0.995,0.882,0.073,0.235,168.963
+46,"Prelude in B minor, BWV 855a (Arr. by Alexander Siloti)",18JxYMTSFKZlxqdNFrOs1r,0.182,0.0377,11,-33.748,0,0.0391,0.987,0.957,0.0804,0.0923,100.482
+47,"Suite d'orchestre dans le style ancien, Op. 2: II. Sarabande. Mesto",3C8Xxgad3ejXfJ0RiJq9G1,0.171,0.00926,7,-31.675,0,0.044,0.993,0.946,0.128,0.0399,116.418
+48,Dappled Light,5bhbv1xIbk0SbfQ2MEXe8F,0.222,0.0456,10,-20.891,0,0.0385,0.993,0.964,0.231,0.0881,128.662
+49,"Herz und Mund und Tat und Leben, Cantata BWV 147: Jesu, Joy of Man’s Desiring (Transcr. Hess for Piano)",2zl2AqEdHVLhjzStuRulGY,0.351,0.0241,7,-33.197,1,0.0538,0.995,0.925,0.131,0.179,81.805
+50,"Piano Concerto in A minor, Op. 16: II. Adagio - Live",3gCYBFexR8dQZWeu4F15eu,0.172,0.014,1,-27.988,1,0.0424,0.981,0.902,0.0735,0.0348,144.414
+51,"Goldberg Variations, BWV 988: Variation 1 (Arr. for Harp)",36EnMgx9PmtnzUtmKwI63h,0.354,0.116,4,-28.692,0,0.0399,0.987,0.883,0.124,0.181,82.627
+52,much loved,0ehvSWC15JKhz5us5aOBjL,0.128,0.0194,4,-24.941,1,0.0388,0.99,0.946,0.069,0.09,75.818
+53,El cant dels ocells (Song of the Birds) (version for cello and orchestra),5k4Eagqnz3YKdMLjSSi0DD,0.16,0.0261,9,-33.263,0,0.0517,0.917,0.232,0.113,0.0305,88.549
+54,Sunset Bird,1jcQ040aWKeiUGJ2IcnFtV,0.349,0.191,0,-16.111,0,0.0463,0.992,0.936,0.132,0.0414,140.422
+55,Flow State Vestida 4,5hJrBqOLUnMXNjDlAX67aP,0.366,0.145,6,-24.892,0,0.0378,0.926,0.483,0.331,0.0749,94.159
+56,3 Pieces in Old Style: No. 1. Aria,2cnCYr5QgPJG0OJqYY4DGF,0.153,0.0398,7,-31.174,0,0.0432,0.867,0.965,0.114,0.0373,85.367
+57,"Concerto en ré mineur, BWV 974: II. Adagio",3CkbfNMYISwMGg2guJtTe4,0.354,0.0322,2,-27.492,0,0.0435,0.992,0.955,0.104,0.0638,67.872
+58,"6 Encores for Piano: No. 3, Wasserklavier",07tKTXpTwZhseOKcmzCv6D,0.319,0.0017,5,-47.898,0,0.0565,0.961,0.293,0.0684,0.145,69.306
+59,"Lo, the full, final sacrifice, Op. 26: Amen - Instrumental",5776PanLfe9zLJMhDbMBgW,0.198,0.0899,4,-25.087,1,0.0448,0.949,0.924,0.15,0.0711,111.868
+60,"6 Impromptus, Op. 5: Impromptu VI",1juisCcrVdwoLbDWyVvNrX,0.448,0.0052,4,-36.512,1,0.0564,0.995,0.88,0.0698,0.0398,62.171
+61,Ascent - Day 1,4NqknSuLbtn77F73YzNVBf,0.23,0.0592,7,-23.594,1,0.0445,0.989,0.941,0.0906,0.103,89.965
+62,"Ravel: Pavane pour une infante défunte, M. 19",3MRQn2RYo2VLYMoStnLRxu,0.491,0.0176,4,-26.911,0,0.0644,0.994,0.927,0.0985,0.0901,125.793
+63,Pastorale,2l2G75RpwNntF9VH1x6SPj,0.147,0.0172,0,-29.506,1,0.043,0.978,0.92,0.107,0.0614,71.604
+64,Nocturne,6pV1dGidc6DvzjKhbMqgDa,0.193,0.116,9,-25.718,1,0.0608,0.986,0.918,0.505,0.0836,143.301
