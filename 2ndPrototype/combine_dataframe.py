@@ -1,3 +1,7 @@
+'''Two functions, 
+get_combinedSongs() will give you a dataframe of all saved csvs
+features_of_playlist(playlist_id) allows you to export your own playlist to the CSVs
+'''
 import os
 import pandas as pd
 import spotipy
@@ -5,10 +9,14 @@ import config
 from spotipy.oauth2 import SpotifyClientCredentials
 
 def get_combinedSongs():
+    '''Gets the combined csv files as dataframe.
+    also returns dataframes for pure features
+    and pure song info
+    all cleaned.
+    '''
     CSVs = []
     files = os.listdir('../data/')
     for file in files:
-        #file is not an object, but a string
         start_of_filename = file.split("-", 1)[0]
 
         if(start_of_filename == 'Playlist'):
@@ -27,6 +35,9 @@ def get_combinedSongs():
     return dataframe_of_songs, features, song_credentials
 
 def features_of_playlist(playlist_id):
+    '''saves the id, name and features of songs
+       from a playlist as CSV in the data folder
+    '''
     sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id= config.client_id,  client_secret= config.client_secret))
     list_of_songs=[]
     the_end_is_neigh = True
