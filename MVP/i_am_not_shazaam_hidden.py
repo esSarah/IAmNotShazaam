@@ -27,10 +27,10 @@ class hidden:
 
     # I use a sample outside of the workflow here
     # the data from the workflow would be "../models"
-    filepathToData = "local_data/"
+    filepathToData = "../models/"
 
     # the chosen sample als indicates the number of kategories
-    model_iteration = "135"
+    model_iterations = "388"
 
     sp = spotipy
 
@@ -204,8 +204,10 @@ class hidden:
         artist_row_list
 
         self.song_selector_dictionary = {}
-        self.song_selector_dictionary.clear()
+
         song_selected = ""
+        search_selector_list = []
+
 
         if(recommend_me_something_for_this.strip()==""):
             print("Please retry, it was empty!")
@@ -235,7 +237,8 @@ class hidden:
             else:
                 #else look it up on spotify
                 if(len(recommend_me_something_for_this.strip())>0):
-
+                    self.song_selector_dictionary.clear()
+                    self.search_selector_list .clear()
                     search_results = self.sp.search(q=recommend_me_something_for_this.strip(),limit=50,market="GB")
                     if(len(search_results["tracks"])>1):
                         #if there is more than one result, prepare a selection
