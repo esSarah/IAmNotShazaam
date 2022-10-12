@@ -1,7 +1,7 @@
 setnumber,Title,id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
 1,everything,6pyM30WDpG70VTfwoQg4m2,0.388,0.448,8,-5.221,0,0.0341,0.851,0.0,0.302,0.397,142.342
 2,Lie Again,6LL5S3DGrUJ6cZRuDefguP,0.431,0.349,7,-9.426,1,0.0325,0.434,7.02e-05,0.241,0.165,62.627
-3,Honest (feat. Don Toliver),2KdKh9vHbKW0tZLqtpxxI0,0.815,0.664,8,-6.761,0,0.0637,0.133,4.9e-05,0.105,0.818,150.019
+3,Honest (feat. Don Toliver),2KdKh9vHbKW0tZLqtpxxI0,0.81,0.655,8,-6.779,0,0.0698,0.127,8.16e-05,0.105,0.809,150.002
 4,Insane,3pcxxaUxAMSfz2zgetHydD,0.39,0.607,3,-8.056,1,0.303,0.632,0.000162,0.138,0.347,161.625
 5,Over,23CKxEwKWsLs6LD5poGOLM,0.65,0.555,6,-5.971,0,0.0719,0.502,0.0,0.104,0.352,103.081
 6,Please Do Not Lean (feat. BADBADNOTGOOD),5uXO1sjZ7VbNKexKaFRna3,0.67,0.41,1,-13.444,1,0.0381,0.241,8.55e-06,0.167,0.46,127.972
@@ -18,7 +18,7 @@ setnumber,Title,id,danceability,energy,key,loudness,mode,speechiness,acousticnes
 17,CYBAH (feat. Lucky Daye),2qEyhtx20tSCSubM3JXhxu,0.722,0.467,5,-7.519,0,0.077,0.0537,0.000557,0.122,0.68,74.968
 18,WE (Warm Embrace),7rTzmiwE6lmBG8vQvBzNg7,0.698,0.603,5,-6.508,0,0.106,0.11,0.0,0.0786,0.91,86.998
 19,Treat Me,2ZCu2xskiEBCV3y0eu0zJG,0.708,0.793,7,-2.518,0,0.0417,0.0442,2.62e-06,0.0362,0.503,94.005
-20,Girlfriend,6vC1RB4tgLY2zgKptEYb5V,0.622,0.288,8,-13.351,0,0.0459,0.337,1.64e-06,0.137,0.259,154.967
+20,Girlfriend,6vC1RB4tgLY2zgKptEYb5V,0.659,0.29,8,-13.456,0,0.0419,0.347,0.0,0.122,0.191,77.536
 21,No Love (with SZA & Cardi B) - Extended Version,0IMUFRaM2W3wKNM1CSQ4Zm,0.722,0.613,1,-4.996,0,0.116,0.192,0.0,0.192,0.607,133.937
 22,Fake Love In LA,3JpStMOHR7ypvk1TvkF3sg,0.536,0.858,0,-4.884,1,0.298,0.453,0.0,0.123,0.456,90.405
 23,Another,0R3BfnrLdW13mopXeKOTQZ,0.77,0.581,11,-5.307,0,0.0908,0.452,0.0,0.128,0.284,120.019

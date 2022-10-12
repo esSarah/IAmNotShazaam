@@ -1,5 +1,5 @@
 setnumber,Title,id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
-1,Honest (feat. Don Toliver),2KdKh9vHbKW0tZLqtpxxI0,0.815,0.664,8,-6.761,0,0.0637,0.133,4.9e-05,0.105,0.818,150.019
+1,Honest (feat. Don Toliver),2KdKh9vHbKW0tZLqtpxxI0,0.81,0.655,8,-6.779,0,0.0698,0.127,8.16e-05,0.105,0.809,150.002
 2,Maybe You’re The Problem,0sb8ClU3CLoNblxkpmOKzA,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02
 3,That's Hilarious,1jIMjbzcGCcCQn5iMu9CUc,0.714,0.442,6,-5.909,1,0.0605,0.742,0.0,0.114,0.546,108.039
 4,Love Me More,16MQETUgqXwY4lZcyRafU3,0.791,0.439,10,-5.62,1,0.0645,0.302,1.85e-05,0.126,0.559,85.004
@@ -13,7 +13,7 @@ setnumber,Title,id,danceability,energy,key,loudness,mode,speechiness,acousticnes
 12,Heaven Takes You Home (feat. Connie Constance),3nEHrvNNtgLv9rneTAYVr4,0.665,0.738,0,-5.931,0,0.0379,0.0124,0.00598,0.0923,0.0389,125.037
 13,Skyline,1QxIFMs4M8qd5cbJJu80v4,0.733,0.653,11,-6.094,1,0.0391,0.0179,0.0218,0.184,0.752,119.996
 14,In The Stars,1ei3hzQmrgealgRKFxIcWn,0.362,0.54,10,-6.031,1,0.0528,0.338,0.0,0.139,0.3,78.007
-15,Sunroof,3RfTeIrWS8LNrfHYwechtt,0.768,0.716,10,-5.11,1,0.0404,0.35,0.0,0.15,0.841,131.43
+15,Sunroof,4h4QlmocP3IuwYEj2j14p8,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443
 16,Words (feat. Zara Larsson),1bgKMxPQU7JIZEhNsM1vFs,0.739,0.586,10,-5.079,0,0.0472,0.0245,0.000252,0.308,0.444,124.026
 17,Lie Again,6LL5S3DGrUJ6cZRuDefguP,0.431,0.349,7,-9.426,1,0.0325,0.434,7.02e-05,0.241,0.165,62.627
 18,Big Energy (feat. DJ Khaled) - Remix,4nmD4awtUUCC4AGETpUiuP,0.867,0.771,11,-3.688,0,0.0939,0.0385,0.0,0.133,0.715,106.021
@@ -47,7 +47,7 @@ setnumber,Title,id,danceability,energy,key,loudness,mode,speechiness,acousticnes
 46,neverletyougo,4qWQdhdHttXPKrQVqoLKMy,0.787,0.325,8,-10.412,1,0.273,0.323,1.31e-06,0.14,0.414,147.038
 47,"How Long - From""Euphoria"" An HBO Original Series",05eZlxyjbkHMPCnunUasCS,0.668,0.687,7,-7.129,0,0.058,0.0157,0.000822,0.149,0.468,97.025
 48,Where you are (feat. WILLOW),4icnlpI5IbZcRO9mpixVVW,0.689,0.872,0,-4.786,1,0.0477,0.0965,0.000498,0.117,0.362,134.994
-49,Talk (with Royal & The Serpent),2OclKk08GDRSZbPF6M41XF,0.76,0.707,10,-5.48,1,0.0313,0.0345,0.00617,0.115,0.374,123.98
+49,Talk (with Royal & The Serpent),0DnA3UhB37Iaq1XwnZwbIZ,0.76,0.707,10,-5.48,1,0.0313,0.0345,0.00617,0.115,0.374,123.98
 50,I Can't Help But Feel,40gooTta3y4FgzXaMOGDJL,0.722,0.706,1,-4.552,0,0.0314,0.328,0.0,0.108,0.715,114.983
 51,Speakers,1620rCO9xoE7kug77sS4AJ,0.416,0.55,6,-5.78,1,0.0493,0.802,0.0,0.319,0.529,99.383
 52,hate to be lame (feat. FINNEAS),3QEX5O23KVp1yg1tj6Hycp,0.507,0.252,10,-12.625,0,0.0616,0.869,0.000293,0.0819,0.307,137.314

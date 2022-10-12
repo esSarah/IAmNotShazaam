@@ -1,6 +1,6 @@
 setnumber,Title,id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
 1,I'M ON ONE (feat. Drake),6wyhUr4Xw8z5uSy0AhoZfU,0.773,0.707,11,-5.71,1,0.0568,0.0103,1.04e-05,0.296,0.113,76.977
-2,Frozen,19n0UZuW8AArMVWNztoXu9,0.516,0.639,6,-8.716,1,0.5,0.141,0.0,0.101,0.252,126.073
+2,Frozen,19n0UZuW8AArMVWNztoXu9,0.514,0.65,6,-8.867,1,0.499,0.138,0.0,0.103,0.236,127.428
 3,Goin Up,1wNdGz7BlB9kH5lDc1eLLb,0.732,0.672,10,-8.462,0,0.148,0.0642,0.0,0.121,0.16,137.03
 4,Certified (feat. Gunna),31xA2Iti4kb3aMiX75e8Y5,0.664,0.559,6,-7.568,0,0.075,0.139,0.0,0.303,0.548,153.95
 5,Right On,6ws54n2IzyrIxxyzlG2bVJ,0.535,0.618,2,-5.668,1,0.382,0.0245,0.0,0.103,0.211,165.991
@@ -19,7 +19,7 @@ setnumber,Title,id,danceability,energy,key,loudness,mode,speechiness,acousticnes
 18,In My Head,1HvTxgCj0mTzQlEo0zLvFb,0.684,0.545,1,-6.885,1,0.121,0.159,0.0,0.102,0.407,143.049
 19,Krazy Krazy,6ZjP85QdIaiTojLrKixvbT,0.593,0.818,11,-5.332,1,0.306,0.00207,7.57e-06,0.291,0.385,162.036
 20,Super Gremlin,4A8cWXxKfIL3lAyUDzXbCF,0.825,0.414,2,-6.634,1,0.144,0.00265,0.0,0.357,0.106,72.993
-21,No Handoutz (feat. Yeat),1jkHLTFc1j6HMHnaGq8QCH,0.7,0.616,5,-6.677,0,0.228,0.00801,0.0,0.215,0.349,133.85
+21,No Handoutz (feat. Yeat),1jkHLTFc1j6HMHnaGq8QCH,0.694,0.622,8,-6.739,1,0.237,0.00603,0.0,0.208,0.339,133.914
 22,Rumors (feat. Lil Durk),0P2P1AxcRYhiZvoF5MyRmM,0.688,0.842,2,-4.211,1,0.264,0.0499,0.0,0.241,0.416,159.897
 23,I Be,3p4YmRsO7aOu8PUbwdN3OB,0.905,0.724,0,-6.255,1,0.237,0.00813,0.0,0.329,0.361,136.982
 24,Elon Musk (feat. Gunna),6g6FfeozIEkVUXecpSq16Q,0.826,0.583,2,-5.186,0,0.0626,0.441,0.0,0.155,0.539,140.039

@@ -1,5 +1,5 @@
 setnumber,Title,id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
-1,Honest (feat. Don Toliver),2KdKh9vHbKW0tZLqtpxxI0,0.815,0.664,8,-6.761,0,0.0637,0.133,4.9e-05,0.105,0.818,150.019
+1,Honest (feat. Don Toliver),2KdKh9vHbKW0tZLqtpxxI0,0.81,0.655,8,-6.779,0,0.0698,0.127,8.16e-05,0.105,0.809,150.002
 2,First Class,1rDQ4oMwGJI7B4tovsBOxc,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998
 3,As It Was,4LRPiXqCikLlN15c3yImP7,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93
 4,Bam Bam (feat. Ed Sheeran),0QBzMgT7NIeoCYy3sJCof1,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996
