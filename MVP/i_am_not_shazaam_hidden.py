@@ -27,10 +27,13 @@ class hidden:
 
     # I use a sample outside of the workflow here
     # the data from the workflow would be "../models"
+    
     filepathToData = "../models/"
+    #filepathToData = "./local_data/"
 
     # the chosen sample als indicates the number of kategories
     model_iterations = "388"
+    #model_iterations = "135"
 
     sp = spotipy
 
@@ -176,6 +179,8 @@ class hidden:
         all_song_dataframe, features_dataframe, credentials_dataframe = combine_dataframe.get_combinedSongs()
 
         # load the saved clusters and scaler, change is always possible
+
+        print(self.filepathToData + "scaler.pickle")
         self.scaler = self.load(self.filepathToData + "scaler.pickle")
         self.kmeans = self.load(self.filepathToData + "kmeans_" + self.model_iterations + ".pickle")
 
